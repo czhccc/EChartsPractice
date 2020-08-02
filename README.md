@@ -6,7 +6,7 @@
 - 原生js
 - jQuery 
 - rem适配
-- **echarts** https://www.echartsjs.com/zh/index.html
+- **Echarts** https://www.echartsjs.com/zh/index.html
 
 
 
